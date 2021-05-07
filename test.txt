@@ -4,3 +4,4 @@ is it ok
 
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh && bash de-apt-xfce4.sh
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+ngrok authtoken 5aqb4bUB5RYNtzSVVMkPg_45fWUX9Hgzo1vkWbBws9P
